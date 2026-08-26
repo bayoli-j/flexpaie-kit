@@ -14,8 +14,8 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "FlexPaieKit",
-         url: "https://github.com/bayoli-j/flexpaie-kit/releases/download/1.5.0/FlexPaieKit.xcframework.zip",
-         checksum:"9943f675989738f8f07cb5ef5406f23f56fb09891a2754366d3457ef159dd559"
+         url: "https://github.com/bayoli-j/flexpaie-kit/releases/download/1.5.1/FlexPaieKit.xcframework.zip",
+         checksum:"32187fefe97bbcab3741a373f93d587c9e86e1b70d25e801f3077356daafdc4f"
       )
    ]
 )
